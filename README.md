@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on :
 -     cuda / openMP projects.
 Also check out my youtube link, it's mostly openCV or machine learning personal projects for fun :
-
+https://www.youtube.com/user/greaythan/videos
 - 📫 How to reach me : nicolasbrondino@pm.me
 
 <!---
