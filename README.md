@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @NicolasBrondino
-- 👀 I’m interested in :
--     coding in C++ and Python, 
--     automotive, machine learning, and computer vision industries,
+- 👀 I’m interested in coding in C++ and Python, as well as automotive, machine learning, and computer vision industries.
 - 🌱 I’m currently learning multithreading and machine learning.
 - 💞️ I’m looking to collaborate on cuda / openMP projects.
 - 📫 How to reach me : nicolasbrondino@pm.me
